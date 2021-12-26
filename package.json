@@ -1,0 +1,16 @@
+{
+  "name": "global-cypress-ui-test",
+  "version": "1.0.0",
+  "description": "Global QA Cypress test",
+  "scripts": {
+    "test": "cypress run",
+    "cypress": "cypress open"
+  },
+  "author": {
+    "name": "Vanitha"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.2.0"
+  }
+}
